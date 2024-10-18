@@ -1,0 +1,33 @@
+.header{
+	background-color: black;
+	color: pink;
+	border: 1px solid black;
+  	outline-style: solid;
+  	outline-color: yellow;
+  	outline-width: medium;
+  	text-align: center;
+
+}
+
+div.meat{
+	background-color: black;
+	width: 30%;
+	height: auto;
+	text-align: center;
+	border: 5px solid;
+	border-color: yellow;
+	border-radius: 5px;
+	margin: auto;
+	font-size:30px;
+	padding: auto;
+
+}
+#Image1{
+	border-radius: 50%;
+}
+
+body{
+	background-color: black;
+}
+
+
